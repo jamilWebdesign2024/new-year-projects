@@ -88,13 +88,14 @@ body{
     margin-left: 158px;
 }
 .location{
-    background-image: linear-gradient(to top, #ff000000, #ff000028);
+    background-image: linear-gradient(to top, #ff000000, #ff00000d);
     width: 1320px;
     display: flex;
     justify-content: center;
     align-items: center;
     height: 482px;
     margin: 120px auto;
+    border-radius: 10px;
 }
 .pdt p{
     text-align: center;
